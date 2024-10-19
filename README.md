@@ -1,2 +1,2 @@
-# Hunar-Intern
-internship projects and task
+# Hunar-Internship
+Hunar Intern is excited to offer a 2-month internship in Python development, designed for aspiring programmers seeking practical experience. Interns will have the opportunity to work on real-world projects, enhancing their skills in Python programming, data analysis, and web development. Throughout the internship, participants will collaborate with our experienced team, learn best practices in coding and debugging, and gain familiarity with version control systems like Git. This is an excellent opportunity to apply theoretical knowledge in a professional setting while building a strong foundation for a career in software development.
